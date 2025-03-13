@@ -1,1 +1,1 @@
-# NYCU_Intro2AI 2025
+# NYCU_Intro2AI 2024
